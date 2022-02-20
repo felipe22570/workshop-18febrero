@@ -1,0 +1,84 @@
+{
+    "productos": [
+        {
+            "id":  1,
+            "precio": "47.46",
+            "sindescontar": "69.8",
+            "nombre": "Aguacate Hass",
+            "cantidad": "1kg",
+            "imagen": "https://res.cloudinary.com/paolavbm/image/upload/v1645302869/samples/workshop2/Name_Aguacate_yzrteo.jpg"
+        },
+        {
+            "id":  2,
+            "precio": "26.82",
+            "sindescontar": "39.9",
+            "nombre": "Limón",
+            "cantidad": "1kg",
+            "imagen": "https://res.cloudinary.com/paolavbm/image/upload/v1645302869/samples/workshop2/Name_Limon_amjaah.jpg"
+        },
+        {
+            "id":  3,
+            "precio": "21.79",
+            "sindescontar": "32.9",
+            "nombre": "Tomate",
+            "cantidad": "1kg",
+            "imagen": "https://res.cloudinary.com/paolavbm/image/upload/v1645302869/samples/workshop2/Name_Tomate_qjlwux.jpg"
+        },
+        {
+            "id":  4,
+            "precio": "29.9",
+            "sindescontar": "20.33",
+            "nombre": "Nopal Limpio",
+            "cantidad": "1kg",
+            "imagen": "https://res.cloudinary.com/paolavbm/image/upload/v1645302869/samples/workshop2/Name_Nopal_yhxphx.jpg"
+        },
+        {
+            "id":  5,
+            "precio": "10.6",
+            "sindescontar": "7.21",
+            "nombre": "Coca-Cola",
+            "cantidad": "250gr",
+            "imagen": "https://res.cloudinary.com/paolavbm/image/upload/v1645302874/samples/workshop2/Name_Cocacola_wjg340.jpg"
+        },
+        {
+            "id":  6,
+            "precio": "22.03",
+            "sindescontar": "32.4",
+            "nombre": "Manzana gold",
+            "cantidad": "1kg",
+            "imagen": "https://res.cloudinary.com/paolavbm/image/upload/v1645302873/samples/workshop2/Name_Manzana_Golden_jjcbig.jpg"
+        },
+        {
+            "id":  7,
+            "precio": "13.94",
+            "sindescontar": "20.5",
+            "nombre": "Mc Coenick Mayonesa",
+            "cantidad": "800gr",
+            "imagen": "https://res.cloudinary.com/paolavbm/image/upload/v1645302873/samples/workshop2/Name_Mc_Cormick_Mayonesa_iipoy0.jpg"
+        },
+        {
+            "id":  8,
+            "precio": "62.5",
+            "sindescontar": "",
+            "nombre": "San Rafael Pechuga de pavo",
+            "cantidad": "500gr",
+            "imagen": "https://res.cloudinary.com/paolavbm/image/upload/v1645302874/samples/workshop2/Name_Pechuga_de_pavo_x21qpi.jpg"
+        },
+        {
+            "id":  9,
+            "precio": "38.4",
+            "sindescontar": "",
+            "nombre": "Huevos San Juan",
+            "cantidad": "1 docena",
+            "imagen": "https://res.cloudinary.com/paolavbm/image/upload/v1645302873/samples/workshop2/Name_Huevos_fqodjw.jpg"
+        },
+        {
+            "id":  10,
+            "precio": "8.23",
+            "sindescontar": "",
+            "nombre": "Pasta Dental Colgate",
+            "cantidad": "125ml",
+            "imagen": "https://res.cloudinary.com/paolavbm/image/upload/v1645302873/samples/workshop2/Name_Colgate_yujdj6.jpg"
+        }
+    ]
+}
