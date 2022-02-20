@@ -27,7 +27,7 @@ const Cards = ({ imagen, precio, sindescuento, nombre }) => {
             <Card.Img variant="top" src={imagen} />
             <Card.Body>
                <Card.Title className="precio">
-                  ${precio} <Span>{sindescuento}</Span>
+                  ${precio} <Span>${sindescuento}</Span>
                </Card.Title>
                <Card.Text>{nombre}</Card.Text>
                <Button className="boton w-100" onClick={handleShow}>
