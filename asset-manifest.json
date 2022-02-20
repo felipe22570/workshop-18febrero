@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/workshop-18febrero/static/css/main.ecc23cd0.css",
+    "main.js": "/workshop-18febrero/static/js/main.0f1166d1.js",
+    "index.html": "/workshop-18febrero/index.html",
+    "main.ecc23cd0.css.map": "/workshop-18febrero/static/css/main.ecc23cd0.css.map",
+    "main.0f1166d1.js.map": "/workshop-18febrero/static/js/main.0f1166d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecc23cd0.css",
+    "static/js/main.0f1166d1.js"
+  ]
+}
